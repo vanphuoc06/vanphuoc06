@@ -1,8 +1,10 @@
-Hi 👋 My name is Ngo Van Phuoc
-==============================
+Hi 👋 My name is 2428\_41 Ngô Văn Phước
+=======================================
 
 AI Engineer
 
+* 🌍  I'm based in Vietnam
+* ✉️  You can contact me at [ngovanphuoc2006t@gmail.com](mailto:ngovanphuoc2006t@gmail.com)
 * 🧠  I'm currently learning University of Science,VNU-HCM
 
 <p align="left">
