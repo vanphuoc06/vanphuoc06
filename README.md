@@ -1,5 +1,5 @@
 # 💫 About Me:
- About Me<br>Hi there! I'm Ngô Văn Phước, a Data Science student at the University of Science, VNU-HCM (HCMUS). <br><br>Driven by a passion for creating reliable, logical, and autonomous systems, my ultimate career goal is to become an AI Researcher. My current research interests lie at the intersection of structured knowledge and deep learning, specifically focusing on building trustworthy intelligent systems.<br> Research Interests<br>-  Knowledge Graphs & Neurosymbolic AI: Bridging the gap between neural networks and symbolic reasoning to make AI more logical, interpretable, and structured.<br>-   Hallucination Mitigation in LLMs: Developing frameworks to detect, measure, and minimize factual inconsistencies in generative models.<br>-   Autonomous AI Agents: Exploring agentic workflows, planning strategies, and long-term memory retrieval to build goal-oriented AI systems.<br><br>
+ About Me<br>Hi there! I'm Ngô Văn Phước, a Data Science student at the University of Science, VNU-HCM (HCMUS). <br><br>My research interests focus on the development and optimization of reinforcement learning (RL) algorithms and their applications to UAVs and Robotics.<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vanphuoc06&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
