@@ -1,5 +1,5 @@
 # 💫 About Me:
- About Me<br>Hi there! I'm Ngô Văn Phước, a Data Science student at the University of Science, VNU-HCM (HCMUS). <br><br>My research interests focus on the development and optimization of reinforcement learning (RL) algorithms and their applications to UAVs and Robotics.<br><br>You can contact me by email at 24280041@student.hcmus.edu.vn .<br><br
+ About Me<br>Hi there! I'm Ngô Văn Phước, a Data Science student at the University of Science, VNU-HCM (HCMUS). <br><br>My research interests focus on the development and optimization of reinforcement learning (RL) algorithms and their applications to UAVs and Robotics.<br><br>You can contact me by email at 24280041@student.hcmus.edu.vn .<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vanphuoc06&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
